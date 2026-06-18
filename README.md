@@ -51,7 +51,8 @@ Siempre busco aprender nuevas tecnologías y fortalecer mis habilidades tanto en
 
 ## Sistemas Operativos
 
-* Linux
+* Linux (ubuntu) 
+* Fedora 
 * Kali Linux
 * Windows 
 
