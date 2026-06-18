@@ -53,6 +53,7 @@ Siempre busco aprender nuevas tecnologías y fortalecer mis habilidades tanto en
 
 * Linux
 * Kali Linux
+* Windows 
 
 ## Áreas de interés
 
