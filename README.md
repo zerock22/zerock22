@@ -98,6 +98,7 @@ Siempre busco aprender nuevas tecnologías y fortalecer mis habilidades tanto en
 
 💼 LinkedIn: https://www.linkedin.com/feed/
 
+📞 Número telefónico: (+57) 3052212818
 ---
 
 > "Construyendo soluciones, aprendiendo constantemente y preparando el camino hacia proyectos de mayor impacto."
