@@ -1,11 +1,11 @@
-# 👋 Hola, soy Andrés Mauricio Jurado Villamizar
+#  Hola, soy Andrés Mauricio Jurado Villamizar
 
 🎓 Estudiante de Ingeniería en Sistemas Informáticos — Actualmente cursando sexto semestre.
 📌 Al finalizar este año obtendré el título de Tecnólogo.
 
 ---
 
-# 🚀 Sobre mí
+#  Sobre mí
 
 Soy una persona apasionada por la tecnología, el desarrollo de software y la automatización con inteligencia artificial.
 
