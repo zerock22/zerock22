@@ -25,7 +25,7 @@ Siempre busco aprender nuevas tecnologías y fortalecer mis habilidades tanto en
 
 ## 📊 Estadísticas de GitHub
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zerock22&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andresjuradovill&theme=dark)](https://git.io/streak-stats)
 
 ---
 
