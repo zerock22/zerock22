@@ -68,28 +68,28 @@ Siempre busco aprender nuevas tecnologías y fortalecer mis habilidades tanto en
 ---
 
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=java,python,js,html,css,postgres" />
 </p>
 
 ---
 
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,linux,vscode,idea,androidstudio,maven,docker" />
 </p>
 
 ---
 
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=flask,tensorflow,keras" />
 </p>
 
 ---
 
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=cloudflare" />
 </p>
 
