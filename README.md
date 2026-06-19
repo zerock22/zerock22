@@ -67,34 +67,28 @@ Siempre busco aprender nuevas tecnologías y fortalecer mis habilidades tanto en
 
 ---
 
-
 <p align="left">
-  <img 
-    src="https://skillicons.dev/icons?i=java,python,js,html,css,postgres"
-    height="55"
-  />
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,postgres" height="55"/>
 </p>
 
-<p align="left">
-  <img 
-    src="https://skillicons.dev/icons?i=postgres,mysql,git,github,linux,vscode,idea,androidstudio,maven,docker"
-    height="55"
-  />
-</p>
+---
 
 <p align="left">
-  <img 
-    src="https://skillicons.dev/icons?i=flask,tensorflow,keras"
-    height="55"
-  />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,linux,vscode,idea,androidstudio,maven,docker" height="55"/>
 </p>
 
+---
+
 <p align="left">
-  <img 
-    src="https://skillicons.dev/icons?i=cloudflare"
-    height="55"
-  />
+  <img src="https://skillicons.dev/icons?i=flask,tensorflow,keras" height="55"/>
 </p>
+
+---
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="55"/>
+</p>
+
 
 Clever Cloud • MVC • REST API • CRUD • HTTP GET/POST • Automatización • Bases de Datos
 
